@@ -29,3 +29,6 @@ body div#wall div.parent div:fist-child > #tag-7.slick {
   display: none; 
 }
 
+#wall div.parent {
+  display: none; 
+}
